@@ -1,5 +1,5 @@
 #Nombre: Adhemar Vidal Pacajes Pabón     C.I.: 13280760
-#Usuario:lab111    Contraseña:prac111
+#Usuario:lab111    Contraseña:prac111 
 
 def operacion_1(a,b):
     d=0
